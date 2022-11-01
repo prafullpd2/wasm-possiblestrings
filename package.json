@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "@wasm/studio-utils": "*",
-    "gulp": "~3.9.1",
+    "gulp": "~4.0.2",
     "ts-node": "~5.0.0",
     "typescript": "~2.7.2"
   },
